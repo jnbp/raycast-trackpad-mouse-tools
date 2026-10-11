@@ -24,11 +24,8 @@
     "tap to click",
     "scrolling",
     "mouse speed",
-    "pointer acceleration",
     "middle click",
-    "left click",
-    "hold mouse button",
-    "3d"
+    "hold mouse button"
   ],
   "commands": [
     {
